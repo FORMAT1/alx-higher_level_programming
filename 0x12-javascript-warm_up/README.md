@@ -20,3 +20,5 @@ Scope of variables
 What are the arithmetic operators and how to use them
 How to manipulate dictionary
 How to import a file
+
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)

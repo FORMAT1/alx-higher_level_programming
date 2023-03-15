@@ -5,5 +5,5 @@ exports.esrever = function (list) {
   while (list.length > 0) {
     rlist.push(list.pop());
   }
-  return list.sort(() => 1);
+  return rlist.sort(() => 1);
 };
